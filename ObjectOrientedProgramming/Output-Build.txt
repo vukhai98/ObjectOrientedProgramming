@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Interface, Configuration: Debug Any CPU ------
+1>Interface -> C:\Users\Admin\Documents\ObjectOrientedProgramming\ObjectOrientedProgramming\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
