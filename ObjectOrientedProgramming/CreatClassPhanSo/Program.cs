@@ -9,7 +9,7 @@ namespace CreatClassPhanSo
             PhanSo ps1 = new PhanSo(2,5);
             //ps1.tuSo = 2;
             //ps1.mauSo = 5;
-            float a = ps1.CreatePhanSo();
+            float a =ps1.CreatePhanSo();
             //Console.WriteLine(ps1.CreatePhanSo());
             //Console.ReadKey();
             PhanSo ps2 = new PhanSo();

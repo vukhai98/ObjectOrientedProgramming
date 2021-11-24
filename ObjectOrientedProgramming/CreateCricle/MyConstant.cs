@@ -4,7 +4,11 @@ using System.Text;
 
 namespace CreateCricle
 {
-    class Ponit
+    public enum Location
     {
+        IN, 
+       OUT,
+        ON
+
     }
 }
